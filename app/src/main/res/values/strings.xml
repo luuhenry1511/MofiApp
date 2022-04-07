@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MoFi</string>
+
+    <!--form đăng nhập -->
+    <string name="dangnhap">Đăng Nhập</string>
+    <string name="dangky">Đăng Ký</string>
+    <string name="quenmk">Quên mật khẩu</string>
+    <string name="tendangnhap">Email</string>
+    <string name="matkhau">Mật Khẩu</string>
+    <string name="title_activity_trangchu">trangchu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Email</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--form đăng ký -->
+    <string name="error_message_name_filled">Tên đăng nhập không được rỗng</string>
+    <string name="error_message_email_filled">Email không được rỗng</string>
+    <string name="error_message_mk_filled">Mật khẩu không được rỗng</string>
+    <string name="error_message_match">Nhập lại mật khẩu không trùng khớp</string>
+    <string name="error_message_email_format">Email không đúng định dạng</string>
+    <string name="action_search">Tìm kiếm giao dịch</string>
+</resources>
